@@ -14,4 +14,4 @@ Ekopay is a centralized e-trading platform for Green Credit management, enabling
 
 -> Project Discovery: Advanced analytics to help companies discover and invest in high-impact projects like reforestation and renewable energy.
 
--> Incentivized Sustainability: Tools for individuals to earn credits by choosing public transport and sustainable products, turning green choices into tangible assets.
+-> Incentivized Sustainability: Tools for individuals to earn credits by choosing public transport and sustainable products, turning green choices into tangible assetes.
